@@ -1,0 +1,13 @@
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\bin\Debug\netcoreapp3.1\Numeros descendentes.exe
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\bin\Debug\netcoreapp3.1\Numeros descendentes.deps.json
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\bin\Debug\netcoreapp3.1\Numeros descendentes.runtimeconfig.json
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\bin\Debug\netcoreapp3.1\Numeros descendentes.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\bin\Debug\netcoreapp3.1\Numeros descendentes.dll
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\bin\Debug\netcoreapp3.1\Numeros descendentes.pdb
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.dll
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.pdb
+C:\Users\Kevin\Desktop\C-Sharp\Numeros descendentes\obj\Debug\netcoreapp3.1\Numeros descendentes.genruntimeconfig.cache
