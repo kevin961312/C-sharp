@@ -1,0 +1,13 @@
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\bin\Debug\netcoreapp3.1\year_poblation.exe
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\bin\Debug\netcoreapp3.1\year_poblation.deps.json
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\bin\Debug\netcoreapp3.1\year_poblation.runtimeconfig.json
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\bin\Debug\netcoreapp3.1\year_poblation.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\bin\Debug\netcoreapp3.1\year_poblation.dll
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\bin\Debug\netcoreapp3.1\year_poblation.pdb
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.dll
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.pdb
+C:\Users\Kevin\Desktop\C-Sharp\year_poblation\obj\Debug\netcoreapp3.1\year_poblation.genruntimeconfig.cache
