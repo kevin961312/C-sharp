@@ -1,13 +1,13 @@
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\bin\Debug\netcoreapp3.1\List_difference.exe
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\bin\Debug\netcoreapp3.1\List_difference.deps.json
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\bin\Debug\netcoreapp3.1\List_difference.runtimeconfig.json
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\bin\Debug\netcoreapp3.1\List_difference.runtimeconfig.dev.json
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\bin\Debug\netcoreapp3.1\List_difference.dll
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\bin\Debug\netcoreapp3.1\List_difference.pdb
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.AssemblyInfoInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.AssemblyInfo.cs
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.dll
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.pdb
-C:\Users\Kevin\Desktop\C-Sharp\List_difference\obj\Debug\netcoreapp3.1\List_difference.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\bin\Debug\netcoreapp3.1\List_difference.exe
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\bin\Debug\netcoreapp3.1\List_difference.deps.json
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\bin\Debug\netcoreapp3.1\List_difference.runtimeconfig.json
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\bin\Debug\netcoreapp3.1\List_difference.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\bin\Debug\netcoreapp3.1\List_difference.dll
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\bin\Debug\netcoreapp3.1\List_difference.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.dll
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Core\List_difference\obj\Debug\netcoreapp3.1\List_difference.genruntimeconfig.cache
