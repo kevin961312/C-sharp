@@ -1,0 +1,7 @@
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\bin\Debug\NthDay.exe.config
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\bin\Debug\NthDay.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\bin\Debug\NthDay.pdb
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\obj\Debug\NthDay.csprojAssemblyReference.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\obj\Debug\NthDay.csproj.CoreCompileInputs.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\obj\Debug\NthDay.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\NthDay\NthDay\obj\Debug\NthDay.pdb

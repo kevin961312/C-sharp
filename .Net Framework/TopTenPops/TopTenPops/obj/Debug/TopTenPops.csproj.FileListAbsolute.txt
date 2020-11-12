@@ -1,0 +1,7 @@
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\bin\Debug\TopTenPops.exe.config
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\bin\Debug\TopTenPops.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\bin\Debug\TopTenPops.pdb
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\obj\Debug\TopTenPops.csprojAssemblyReference.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\obj\Debug\TopTenPops.csproj.CoreCompileInputs.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\obj\Debug\TopTenPops.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TopTenPops\TopTenPops\obj\Debug\TopTenPops.pdb
