@@ -18,6 +18,7 @@ namespace GradeBook
             set;
         }
     }
+
     public interface IBook
     {
         void AddGrade(double grade);
@@ -25,11 +26,14 @@ namespace GradeBook
         string Name { get; }
         event GradeAddedDelegate GradeAdded;
     }
+
+
     public abstract class Book : NamedObject, IBook
     {
         public Book(string name) : base(name)
         {
         }
+
         public abstract event GradeAddedDelegate GradeAdded;
         public abstract void AddGrade(double grade);
         public abstract Statistics GetStatistics();
@@ -40,7 +44,9 @@ namespace GradeBook
         public DiskBook(string name) : base(name)
         {
         }
+
         public override event GradeAddedDelegate GradeAdded;
+
         public override void AddGrade(double grade)
         {
             using (var writer = File.AppendText($"{Name}.txt"))
@@ -52,8 +58,10 @@ namespace GradeBook
                 }
             }
         }
+
         public override Statistics GetStatistics()
         {
+
             var result = new Statistics();
             using (var reader = File.OpenText($"{Name}.txt"))
             {
@@ -76,6 +84,7 @@ namespace GradeBook
             grades = new List<double>();
             Name = name;
         }
+
         public override void AddGrade(double grade)
         {
             if (grade <= 100 && grade >= 0)
@@ -85,44 +94,30 @@ namespace GradeBook
                 {
                     GradeAdded(this, new EventArgs());
                 }
+
             }
             else
             {
                 throw new ArgumentException($"Invalid {nameof(grade)}");
             }
+
         }
+
         public override event GradeAddedDelegate GradeAdded;
+
         public override Statistics GetStatistics()
         {
             var result = new Statistics();
+
             for (var index = 0; index < grades.Count; index += 1)
             {
                 result.Add(grades[index]);
             }
+
             return result;
         }
         private List<double> grades;
+
         public const string CATEGORY = "Science";
-        
-        public void AddLetterGrade(char letter)
-        {
-            switch(letter)
-            {
-                case 'A':
-                    AddGrade(90);
-                    break;
-                case 'B':
-                    AddGrade(90);
-                    break;
-                case 'C':
-                    AddGrade(90);
-                    break;
-                default:
-                    AddGrade(0);
-                    break;
-            }
-        }
-        
-   
     }
 }

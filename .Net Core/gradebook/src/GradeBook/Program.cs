@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
 
 namespace GradeBook
 {
@@ -9,31 +7,33 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-
-            IBook book = new DiskBook("Kevin GradeBook");
+            IBook book = new DiskBook("Kevin Grade Book");
             book.GradeAdded += OnGradeAdded;
 
-            EnterGrades(book);
-            
+            EnterGrade(book);
+
             var stats = book.GetStatistics();
 
-            Console.WriteLine($"The lowest grade is: {stats.Low}");
-            Console.WriteLine($"The highest grade is: {stats.High}");
-            Console.WriteLine($"The average grade is: {stats.Average:N3}");
-            Console.WriteLine($"The average grade is: {stats.Letter}");
+            Console.WriteLine($"For the book named {book.Name}");
+            Console.WriteLine($"The lowest grade is {stats.Low}");
+            Console.WriteLine($"The highest grade is {stats.High}");
+            Console.WriteLine($"The average grade is {stats.Average:N1}");
+            Console.WriteLine($"The letter grade is {stats.Letter}");
         }
 
-        private static void EnterGrades(IBook book)
+        private static void EnterGrade(IBook book)
         {
-        
             while (true)
             {
-                Console.WriteLine("Enter a grade or 'q'to quit");
+
+                Console.WriteLine("Enter a grade or 'q' to quit");
                 var input = Console.ReadLine();
+
                 if (input == "q")
                 {
                     break;
                 }
+
                 try
                 {
                     var grade = double.Parse(input);
@@ -41,11 +41,11 @@ namespace GradeBook
                 }
                 catch (ArgumentException ex)
                 {
-                    Console.Write(ex.Message);
+                    Console.WriteLine(ex.Message);
                 }
                 catch (FormatException ex)
                 {
-                    Console.Write(ex.Message);
+                    Console.WriteLine(ex.Message);
                 }
                 finally
                 {
@@ -54,9 +54,11 @@ namespace GradeBook
             }
         }
 
-        static void OnGradeAdded(object sender , EventArgs e)
+        static void OnGradeAdded(object sender, EventArgs e)
         {
             Console.WriteLine("A grade was added");
         }
+
     }
+
 }
