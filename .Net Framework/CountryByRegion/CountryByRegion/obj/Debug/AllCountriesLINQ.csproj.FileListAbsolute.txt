@@ -1,0 +1,7 @@
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\bin\Debug\AllCountries.exe.config
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\bin\Debug\AllCountries.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\bin\Debug\AllCountries.pdb
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\obj\Debug\AllCountriesLINQ.csprojAssemblyReference.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\obj\Debug\AllCountriesLINQ.csproj.CoreCompileInputs.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\obj\Debug\AllCountries.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries LINQ\AllCountries\obj\Debug\AllCountries.pdb

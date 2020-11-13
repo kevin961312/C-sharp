@@ -1,0 +1,7 @@
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\bin\Debug\AllCountries.exe.config
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\bin\Debug\AllCountries.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\bin\Debug\AllCountries.pdb
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\obj\Debug\CountryByRegion.csprojAssemblyReference.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\obj\Debug\CountryByRegion.csproj.CoreCompileInputs.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\obj\Debug\AllCountries.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CountryByRegion\AllCountries\obj\Debug\AllCountries.pdb
