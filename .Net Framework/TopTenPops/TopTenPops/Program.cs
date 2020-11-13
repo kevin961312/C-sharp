@@ -17,7 +17,7 @@ namespace TopTenPops
 
             foreach (Country country in countries) 
             {
-                Console.WriteLine($"{country.Population}:{country.Name}\n");
+                Console.WriteLine($"{PopulationFormatter.FormatPopulation(country.Population).PadLeft(15)}: {country.Name}");
             }
         }
     }
