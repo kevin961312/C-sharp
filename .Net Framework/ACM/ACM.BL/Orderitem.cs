@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    class Orderitem
+    public class OrderItem
     {
-        public Orderitem()
+        public OrderItem()
         {
                 
         }
-        public Orderitem(int orderItemId)
+        public OrderItem(int orderItemId)
         {
-            orderItemId = orderItemId;
+            OrderItemId = orderItemId;
         }
         public int OrderItemId { get; private set; }
         public int ProductId { get; set; }
         public decimal? PurchasePrice { get; set; }
         public int  Quantily { get; set; }
-        public Orderitem Retrieve(int orderItemId)
+        public OrderItem Retrieve(int orderItemId)
         {
-            return new Orderitem();
+            return new OrderItem();
         }
         public bool Save()
         {

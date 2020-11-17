@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{903583F4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "ACM.BLTest\ACM.BLTest.csproj", "{1642FA1F-26BD-4A45-8ECB-951A2AF97F65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Common", "Acme.Common\Acme.Common.csproj", "{7E846777-F2B9-4BF1-A864-54723D28663A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.CommonTest", "Acme.CommonTest\Acme.CommonTest.csproj", "{1244ECAB-0316-4E26-A817-3A7E839C068F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,21 @@ Global
 		{1642FA1F-26BD-4A45-8ECB-951A2AF97F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1642FA1F-26BD-4A45-8ECB-951A2AF97F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1642FA1F-26BD-4A45-8ECB-951A2AF97F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E846777-F2B9-4BF1-A864-54723D28663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E846777-F2B9-4BF1-A864-54723D28663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E846777-F2B9-4BF1-A864-54723D28663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E846777-F2B9-4BF1-A864-54723D28663A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1244ECAB-0316-4E26-A817-3A7E839C068F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1244ECAB-0316-4E26-A817-3A7E839C068F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1244ECAB-0316-4E26-A817-3A7E839C068F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1244ECAB-0316-4E26-A817-3A7E839C068F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1642FA1F-26BD-4A45-8ECB-951A2AF97F65} = {903583F4-54DE-462C-B368-AE8A75D973B8}
+		{1244ECAB-0316-4E26-A817-3A7E839C068F} = {903583F4-54DE-462C-B368-AE8A75D973B8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA35664D-3B0B-4899-A402-7AA897AFE3A3}
