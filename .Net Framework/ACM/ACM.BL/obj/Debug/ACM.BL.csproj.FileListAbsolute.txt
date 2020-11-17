@@ -4,3 +4,12 @@ C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL
 C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
 C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
