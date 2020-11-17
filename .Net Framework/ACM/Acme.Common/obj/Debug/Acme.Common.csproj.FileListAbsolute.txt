@@ -4,9 +4,3 @@ C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\Acme.Common\obj\Debug\A
 C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
 C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.dll
 C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\Acme.Common\bin\Debug\Acme.Common.dll
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.dll
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ACM\Acme.Common\obj\Debug\Acme.Common.pdb

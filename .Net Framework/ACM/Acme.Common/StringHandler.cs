@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace Acme.Common
 {
-    public static class StringHandler
+    public class StringHandler
     {
-        /// <summary>
-        /// Inserts space before each letter in a string
-        /// </summary>
-        /// <param name="source"></param>
-        /// <returns></returns>
-        public static string InsertSpaces( this string source)
+        public string InsertSpaces(string source)
         {
             string result = string.Empty;
             if (!String.IsNullOrWhiteSpace(source))

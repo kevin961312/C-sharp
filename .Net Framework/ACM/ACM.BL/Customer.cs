@@ -1,14 +1,12 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
-using Acme.Common;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    public class Customer:  EntityBase, ILoggable
+    public class Customer
     {
         public Customer(): this(0)
         {
@@ -49,15 +47,7 @@ namespace ACM.BL
             set { _lastName = value; }
         }
         public static int InstanceCount { get; set; }
-
-        //public string Log()
-        //{
-        //    var logString = CustomerId + ": " +FullName + " " +"Email: " + EmailAdress + " " +"Status: "+EntityState.ToString();
-        //}
-        public string Log() => $"{CustomerId}: {FullName} Email: {EmailAdress} Status: {EntityState.ToString()}";
-
-        public override string ToString() => FullName;
-        public override bool Validate()
+        public bool Validate()
         {
             var isValidate = true;
             if (string.IsNullOrWhiteSpace(LastName)) isValidate = false;
