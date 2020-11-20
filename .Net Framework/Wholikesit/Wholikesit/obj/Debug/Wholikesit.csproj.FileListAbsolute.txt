@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Wholikesit\Wholikesit\bin\Debug\Wholikesit.exe.config
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Wholikesit\Wholikesit\bin\Debug\Wholikesit.exe
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Wholikesit\Wholikesit\bin\Debug\Wholikesit.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Wholikesit\Wholikesit\obj\Debug\Wholikesit.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Wholikesit\Wholikesit\obj\Debug\Wholikesit.exe
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Wholikesit\Wholikesit\obj\Debug\Wholikesit.pdb
