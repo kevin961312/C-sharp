@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\obj\Debug\ListFiltering.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\obj\Debug\ListFiltering.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\bin\Debug\ListFiltering.exe.config
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\bin\Debug\ListFiltering.exe
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\bin\Debug\ListFiltering.pdb
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\obj\Debug\ListFiltering.exe
+C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\ListFiltering\ListFiltering\obj\Debug\ListFiltering.pdb
