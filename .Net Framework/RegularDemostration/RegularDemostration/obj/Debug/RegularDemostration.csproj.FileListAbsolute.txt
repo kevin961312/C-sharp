@@ -1,0 +1,7 @@
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\bin\Debug\RegularDemostration.exe.config
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\bin\Debug\RegularDemostration.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\bin\Debug\RegularDemostration.pdb
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\obj\Debug\RegularDemostration.csprojAssemblyReference.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\obj\Debug\RegularDemostration.csproj.CoreCompileInputs.cache
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\obj\Debug\RegularDemostration.exe
+C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\RegularDemostration\RegularDemostration\obj\Debug\RegularDemostration.pdb
