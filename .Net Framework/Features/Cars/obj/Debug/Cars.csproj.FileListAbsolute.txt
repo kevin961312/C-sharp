@@ -1,7 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\bin\Debug\Cars.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\bin\Debug\Cars.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\bin\Debug\Cars.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\obj\Debug\Cars.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Cars\obj\Debug\Cars.pdb

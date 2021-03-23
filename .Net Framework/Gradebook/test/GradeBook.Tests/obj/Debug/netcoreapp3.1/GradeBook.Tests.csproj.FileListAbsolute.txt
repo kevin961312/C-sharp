@@ -1,4 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.AssemblyInfoInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.AssemblyInfo.cs
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.csproj.CoreCompileInputs.cache

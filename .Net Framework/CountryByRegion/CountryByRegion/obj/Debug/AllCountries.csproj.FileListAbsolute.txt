@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\bin\Debug\AllCountries.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\bin\Debug\AllCountries.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\bin\Debug\AllCountries.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\obj\Debug\AllCountries.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\obj\Debug\AllCountries.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\obj\Debug\AllCountries.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\AllCountries\AllCountries\obj\Debug\AllCountries.pdb

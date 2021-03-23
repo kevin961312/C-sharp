@@ -1,7 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\bin\Debug\DetectPangram.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\bin\Debug\DetectPangram.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\bin\Debug\DetectPangram.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\obj\Debug\DetectPangram.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\obj\Debug\DetectPangram.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\obj\Debug\DetectPangram.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\DetectPangram\DetectPangram\obj\Debug\DetectPangram.pdb

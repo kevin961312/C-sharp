@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.pdb

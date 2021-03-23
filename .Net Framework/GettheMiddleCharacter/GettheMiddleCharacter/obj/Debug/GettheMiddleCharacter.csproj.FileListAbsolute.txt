@@ -1,6 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\GettheMiddleCharacter\GettheMiddleCharacter\bin\Debug\GettheMiddleCharacter.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\GettheMiddleCharacter\GettheMiddleCharacter\bin\Debug\GettheMiddleCharacter.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\GettheMiddleCharacter\GettheMiddleCharacter\bin\Debug\GettheMiddleCharacter.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\GettheMiddleCharacter\GettheMiddleCharacter\obj\Debug\GettheMiddleCharacter.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\GettheMiddleCharacter\GettheMiddleCharacter\obj\Debug\GettheMiddleCharacter.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\GettheMiddleCharacter\GettheMiddleCharacter\obj\Debug\GettheMiddleCharacter.pdb

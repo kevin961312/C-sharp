@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Logo="ExpressAppLogo">
+  <NavigationItems NavigationStyle="Accordion" ShowImages="False" DefaultChildItemsDisplayStyle="List" />
+  <Options UIType="TabbedMDI" FormStyle="Ribbon" ShowTabImage="False">
+    <LayoutManagerOptions EnableLayoutGroupImages="False" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="20.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Person_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True">
+        <LayoutGroup Id="Main" Index="0" ShowCaption="False" RelativeSize="100" IsNewNode="True">
+          <LayoutGroup Id="Person" Index="0" Direction="Horizontal" ShowCaption="False" RelativeSize="100" IsNewNode="True">
+            <LayoutGroup Id="Person_col1" Index="0" ShowCaption="False" RelativeSize="33.333333333333336" IsNewNode="True">
+              <LayoutItem Id="Name" ViewItem="Name" Index="0" RelativeSize="3.6363636363636362" TabIndex="0" IsNewNode="True" />
+              <LayoutItem Id="Adress" ViewItem="Adress" Index="1" RelativeSize="2.7272727272727271" TabIndex="1" IsNewNode="True" />
+              <LayoutItem Id="DoYouhaveEmail" ViewItem="DoYouhaveEmail" Index="2" RelativeSize="2.6136363636363638" TabIndex="2" IsNewNode="True" />
+              <LayoutItem Id="Age" ViewItem="Age" Index="3" RelativeSize="2.7272727272727271" TabIndex="4" IsNewNode="True" />
+              <LayoutItem Id="PhoneNumber" ViewItem="PhoneNumber" Index="4" RelativeSize="2.7272727272727271" TabIndex="5" IsNewNode="True" />
+              <LayoutItem Id="LegalAge" ViewItem="LegalAge" Index="5" RelativeSize="3.6363636363636362" IsNewNode="True" />
+              <LayoutItem Id="FullName" Index="6" ViewItem="FullName" RelativeSize="12.5" IsNewNode="True" />
+              <LayoutItem Id="FirstName" Index="7" ViewItem="FirstName" RelativeSize="16.931818181818183" IsNewNode="True" />
+              <LayoutItem Id="MiddleName" Index="8" ViewItem="MiddleName" RelativeSize="16.931818181818183" IsNewNode="True" />
+              <LayoutItem Id="LastName" Index="9" ViewItem="LastName" RelativeSize="16.931818181818183" IsNewNode="True" />
+              <LayoutItem Id="DisplayName" Index="10" ViewItem="DisplayName" RelativeSize="18.636363636363637" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="Person_col2" Index="1" ShowCaption="False" RelativeSize="33.333333333333336" IsNewNode="True">
+              <LayoutItem Id="Email" Index="0" ViewItem="Email" RelativeSize="3.6363636363636362" TabIndex="3" IsNewNode="True" />
+              <LayoutItem Id="Birthday" Index="1" ViewItem="Birthday" RelativeSize="31.704545454545453" IsNewNode="True" />
+              <LayoutItem Id="Address1" Index="2" ViewItem="Address1" RelativeSize="31.704545454545453" IsNewNode="True" />
+              <LayoutItem Id="Address2" Index="3" ViewItem="Address2" RelativeSize="32.954545454545453" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutItem Id="Photo" ShowCaption="False" Index="2" ViewItem="Photo" RelativeSize="33.333333333333336" IsNewNode="True" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <DetailView Id="Test_Person_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True">
+        <LayoutGroup Id="Main" Index="0" ShowCaption="False" IsNewNode="True">
+          <LayoutGroup Id="SimpleEditors" Index="0" ShowCaption="False" IsNewNode="True">
+            <LayoutGroup Id="Test_Person" Index="0" Direction="Horizontal" ShowCaption="True" IsNewNode="True">
+              <LayoutGroup Id="Test_Person_col1" Index="0" ShowCaption="False" IsNewNode="True">
+                <LayoutItem Id="Name" ViewItem="Name" ShowCaption="" Index="0" TabIndex="5" IsNewNode="True" />
+                <LayoutItem Id="Adress" ViewItem="Adress" ShowCaption="" Index="1" TabIndex="4" IsNewNode="True" />
+                <LayoutItem Id="Age" ViewItem="Age" ShowCaption="" Index="2" TabIndex="3" IsNewNode="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="Test_Person_col2" Index="1" ShowCaption="False" IsNewNode="True">
+                <LayoutItem Id="DoYouhaveEmail" ViewItem="DoYouhaveEmail" ShowCaption="" Index="0" TabIndex="2" IsNewNode="True" />
+                <LayoutItem Id="PhoneNumber" ViewItem="PhoneNumber" ShowCaption="" Index="1" TabIndex="1" IsNewNode="True" />
+                <LayoutItem Id="Email" ViewItem="Email" ShowCaption="" Index="2" TabIndex="0" IsNewNode="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

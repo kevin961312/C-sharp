@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\bin\Debug\SumDigits.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\bin\Debug\SumDigits.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\bin\Debug\SumDigits.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\obj\Debug\SumDigits.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\obj\Debug\SumDigits.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\obj\Debug\SumDigits.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\SumDigits\SumDigits\obj\Debug\SumDigits.pdb

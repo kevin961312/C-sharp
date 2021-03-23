@@ -1,7 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\bin\Debug\Removetheminimum.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\bin\Debug\Removetheminimum.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\bin\Debug\Removetheminimum.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\obj\Debug\Removetheminimum.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\obj\Debug\Removetheminimum.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\obj\Debug\Removetheminimum.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Removetheminimum\Removetheminimum\obj\Debug\Removetheminimum.pdb

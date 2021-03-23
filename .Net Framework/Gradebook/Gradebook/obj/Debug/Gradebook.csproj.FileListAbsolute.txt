@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\bin\Debug\Gradebook.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\bin\Debug\Gradebook.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\bin\Debug\Gradebook.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\obj\Debug\Gradebook.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\obj\Debug\Gradebook.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\obj\Debug\Gradebook.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Gradebook\Gradebook\obj\Debug\Gradebook.pdb

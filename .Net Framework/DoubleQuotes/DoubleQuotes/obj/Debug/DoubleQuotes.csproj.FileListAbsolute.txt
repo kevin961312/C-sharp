@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\bin\Debug\DoubleQuotes.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\bin\Debug\DoubleQuotes.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\bin\Debug\DoubleQuotes.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\obj\Debug\DoubleQuotes.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\obj\Debug\DoubleQuotes.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\obj\Debug\DoubleQuotes.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DoubleQuotes\DoubleQuotes\obj\Debug\DoubleQuotes.pdb

@@ -1,7 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Exception\04\demos\before\01ThrowingEx\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

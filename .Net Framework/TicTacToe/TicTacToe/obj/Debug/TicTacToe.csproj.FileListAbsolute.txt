@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

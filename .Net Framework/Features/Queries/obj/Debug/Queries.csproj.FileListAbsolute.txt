@@ -1,7 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\bin\Debug\Queries.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\bin\Debug\Queries.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\bin\Debug\Queries.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\obj\Debug\Queries.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\Features\Queries\obj\Debug\Queries.pdb

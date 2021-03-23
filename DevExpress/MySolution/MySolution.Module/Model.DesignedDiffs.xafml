@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="MySolution" Logo="Office2013\Content_32x32" PreferredLanguage="es">
+  <ActionDesign>
+    <Actions>
+      <Action Id="Task.MarkCompleted" ValidationContexts="MarkCompleted" />
+    </Actions>
+    <ActionToContainerMapping>
+      <ActionContainer Id="RecordEdit">
+        <ActionLink ActionId="ClearTasksAction" IsNewNode="True" />
+      </ActionContainer>
+      <ActionContainer Id="View">
+        <ActionLink ActionId="ClearTasksAction" Removed="True" />
+      </ActionContainer>
+    </ActionToContainerMapping>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.Task">
+      <OwnMembers>
+        <Member Name="Subject" RowCount="2" Size="200" />
+      </OwnMembers>
+    </Class>
+    <Class Name="MySolution.Module.BusinessObjects.Contact" ImageName="Iconxls">
+      <OwnMembers>
+        <Member Name="Position" DataSourcePropertyIsNullMode="SelectAll" />
+      </OwnMembers>
+    </Class>
+    <Class Name="MySolution.Module.BusinessObjects.Payment">
+      <OwnMembers>
+        <Member Name="Rate" ImmediatePostData="True" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <CreatableItems>
+    <CreatableItem ClassName="DevExpress.Persistent.BaseImpl.Event" IsNewNode="True" />
+  </CreatableItems>
+  <NavigationItems ShowImages="True" DefaultChildItemsDisplayStyle="LargeIcons" NavigationStyle="NavBar">
+    <Items>
+      <Item Id="Default" ChildItemsDisplayStyle="LargeIcons">
+        <Items>
+          <Item Id="@0a3e1d57-fd79-496a-a582-fb208770f9be" ImageName="BO_List" ViewId="Note_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Validation>
+    <Rules>
+      <RuleCriteria Id="TaskIsNotStarted" TargetContextIDs="MarkCompleted" Criteria="Status != 'NotStarted'" TargetType="MySolution.Module.BusinessObjects.DemoTask" CustomMessageTemplate="Cannot set the task as completed because..." IsNewNode="True" />
+    </Rules>
+  </Validation>
+  <Views>
+    <DetailView Id="Contact_DetailView">
+      <Items>
+        <PropertyEditor Id="Department.Office" PropertyName="Department.Office" IsNewNode="True" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="Contact">
+              <LayoutGroup Id="Contact_col2">
+                <LayoutItem Id="Department.Office" ViewItem="Department.Office" IsNewNode="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="Contact_ListView" IsGroupPanelVisible="True">
+      <Columns>
+        <ColumnInfo Id="FullName" SortIndex="-1" GroupIndex="0" />
+        <ColumnInfo Id="TitleOfCourtesy" SortOrder="None" GroupIndex="-1" Index="1" />
+        <ColumnInfo Id="WebPageAddress" Index="2" />
+        <ColumnInfo Id="NickName" Index="3" />
+        <ColumnInfo Id="SpouseName" SortOrder="Ascending" GroupIndex="1" Index="4" />
+        <ColumnInfo Id="Anniversary" Index="5" />
+      </Columns>
+      <Filters CurrentFilterId="Developers">
+        <Filter Id="All Contacts" Caption="All Contacts" IsNewNode="True" />
+        <Filter Id="Developers" Criteria="Position.Title = 'Developer'" Caption="Developers" IsNewNode="True" />
+        <Filter Id="Development Department Contacts" Criteria="[Department.Title] = 'Development Department'" Caption="Development Department Contacts" IsNewNode="True" />
+      </Filters>
+    </ListView>
+    <ListView Id="DemoTask_ListView" NewItemRowPosition="Top" AllowEdit="True" PreviewColumnName="Description" />
+    <ListView Id="Department_ListView" MasterDetailMode="ListViewAndDetailView" />
+  </Views>
+</Application>

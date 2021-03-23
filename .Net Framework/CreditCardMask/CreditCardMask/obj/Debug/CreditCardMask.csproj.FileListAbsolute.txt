@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\obj\Debug\CreditCardMask.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\obj\Debug\CreditCardMask.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\bin\Debug\CreditCardMask.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\bin\Debug\CreditCardMask.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\bin\Debug\CreditCardMask.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\obj\Debug\CreditCardMask.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\CreditCardMask\CreditCardMask\obj\Debug\CreditCardMask.pdb

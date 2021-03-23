@@ -1,6 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\OnesandZeros\OnesandZeros\bin\Debug\OnesandZeros.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\OnesandZeros\OnesandZeros\bin\Debug\OnesandZeros.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\OnesandZeros\OnesandZeros\bin\Debug\OnesandZeros.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.pdb

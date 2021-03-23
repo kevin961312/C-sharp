@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\obj\Debug\DictSnippets.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\obj\Debug\DictSnippets.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\bin\Debug\DictSnippets.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\bin\Debug\DictSnippets.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\bin\Debug\DictSnippets.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\obj\Debug\DictSnippets.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\DictSnippets\DictSnippets\obj\Debug\DictSnippets.pdb

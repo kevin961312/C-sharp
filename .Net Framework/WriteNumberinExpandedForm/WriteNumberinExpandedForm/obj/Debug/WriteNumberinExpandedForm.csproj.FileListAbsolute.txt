@@ -1,7 +1,0 @@
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\bin\Debug\WriteNumberinExpandedForm.exe.config
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\bin\Debug\WriteNumberinExpandedForm.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\bin\Debug\WriteNumberinExpandedForm.pdb
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\obj\Debug\WriteNumberinExpandedForm.csprojAssemblyReference.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\obj\Debug\WriteNumberinExpandedForm.csproj.CoreCompileInputs.cache
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\obj\Debug\WriteNumberinExpandedForm.exe
-C:\Users\Kevin\Desktop\C-Sharp\.Net Framework\WriteNumberinExpandedForm\WriteNumberinExpandedForm\obj\Debug\WriteNumberinExpandedForm.pdb

@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.pdb

@@ -1,7 +1,0 @@
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\obj\Debug\Yourorder,please.csprojAssemblyReference.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\obj\Debug\Yourorder,please.csproj.CoreCompileInputs.cache
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\bin\Debug\Yourorder,please.exe.config
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\bin\Debug\Yourorder,please.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\bin\Debug\Yourorder,please.pdb
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\obj\Debug\Yourorder,please.exe
-C:\Users\kevin.pineda\Desktop\C-sharp\.Net Framework\Yourorder,please\Yourorder,please\obj\Debug\Yourorder,please.pdb

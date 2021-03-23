@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="Person_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="Person">
+            <LayoutItem Id="Photo" ViewItem="Photo" />
+            <LayoutGroup Id="Person_col2">
+              <LayoutItem Id="Address2" ViewItem="Address2" />
+              <LayoutItem Id="Address1" ViewItem="Address1" />
+              <LayoutItem Id="Birthday" ViewItem="Birthday" />
+            </LayoutGroup>
+            <LayoutGroup Id="Person_col1">
+              <LayoutItem Id="DisplayName" ViewItem="DisplayName" />
+              <LayoutItem Id="LastName" ViewItem="LastName" />
+              <LayoutItem Id="MiddleName" ViewItem="MiddleName" />
+              <LayoutItem Id="FirstName" ViewItem="FirstName" />
+              <LayoutItem Id="FullName" ViewItem="FullName" />
+              <LayoutItem Id="LegalAge" ViewItem="LegalAge" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
